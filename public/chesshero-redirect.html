@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ChessHero Redirect Page</title>
+</head>
+<body>
+<p>Couldn't redirect to app</p>
+<script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const userId = urlParams.get('userId')
+console.log(userId);
+window.location.replace("dicechess://share?"+userId);
+
+var ua = navigator.userAgent.toLowerCase();
+var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+if(isAndroid) {
+  window.location = 'https://play.google.com/store/apps/dev?id=5967356289219064108';
+}
+
+if(iOS()){
+  window.location = 'https://apps.apple.com/th/developer/rapidfire-games/id1719516661';
+}
+
+function iOS() {
+  return [
+    'iPad Simulator',
+    'iPhone Simulator',
+    'iPod Simulator',
+    'iPad',
+    'iPhone',
+    'iPod'
+  ].includes(navigator.platform)
+  // iPad on iOS 13 detection
+  || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+}
+</script>
+</body>
+</html> 
