@@ -488,3 +488,8 @@ vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 yeahmobi.com, 113772, RESELLER
 
+connekt.ai, 1732945743, RESELLER
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+video.unrulymedia.com, 1058378980, RESELLER
+
