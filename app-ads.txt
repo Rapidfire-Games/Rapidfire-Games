@@ -218,7 +218,7 @@ indexexchange.com, 191332, RESELLER
 indexexchange.com, 192806, RESELLER
 inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER
 inmobi.com, 86357825a302443d9a99c0b5dda0eafa, RESELLER
-lacunads.com, 21518466, DIRECT
+lacunaads.com, 21518466, DIRECT
 lijit.com, 273644, RESELLER
 lkqd.net, 647, RESELLER
 lkqd.net, 654, RESELLER
@@ -286,6 +286,7 @@ video.unrulymedia.com, 3880497124, RESELLER
 vidoomy.com, 9148331, RESELLER
 xapads.com, 144307, RESELLER
 yeahmobi.com, 113772, RESELLER
+zmaticoo.com, 21518466, DIRECT
 
 
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
