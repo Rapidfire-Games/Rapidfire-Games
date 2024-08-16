@@ -1239,3 +1239,7 @@ singularads, 548745, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 App-stock.com, 558223, Reseller, ed8c126ea5971415
 contextweb.com, 563321, RESELLER, 89ff185a4c4e857c
+
+pangleglobal.com, 5020879, DIRECT
+pangleglobal.com, 5019308, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
